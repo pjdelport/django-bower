@@ -37,3 +37,6 @@ example/static/*
 
 !example/components/.gitkeep
 !example/static/.gitkeep
+
+# Tox working directory
+.tox
